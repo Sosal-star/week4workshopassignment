@@ -1,0 +1,32 @@
+h1{
+    color: black;
+    background-color:bisque;
+    font-size: 40px;
+}
+h2{
+    color: blue;
+    background-color: aqua;
+    font-size: 30px;
+}
+h3{
+    color:white;
+    background-color: brown;
+    font-size: 20px;
+}
+h4{
+    color:purple;
+    background-color: yellow;
+    font-size: 15px;
+
+}
+
+h5{
+    color: whitesmoke;
+    background-color: red;
+    font-size: 10px;
+}
+h6{
+    color: black;
+    background-color: orange;
+    font-size: 8px;
+}
